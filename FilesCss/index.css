@@ -102,9 +102,18 @@ h3{
     font-size: 40px;
 
 }
+a{
+    color: orange;
+    
+}
+
+.fontpcard p{
+    color : black;
+    padding: 15px;
+    }
 p{
     color: white;
-}
+} 
 .firstandthirdmovie{
     
     
@@ -145,3 +154,17 @@ p{
     flex-direction: row;
     margin-left: 15%;
 }
+.card-text a {
+    color: orange;
+    text-align: center;
+    font-family: 'distant_galaxyregular', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.movies{
+    padding: 5px;
+    }
+    .movies2{
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 25px;
+        }
